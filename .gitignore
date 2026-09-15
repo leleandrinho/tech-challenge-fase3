@@ -4,5 +4,3 @@ credentials/
 __pycache__/
 *.pyc
 pyprojetct.toml
-.idea/
-.gitattributes.txt
