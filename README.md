@@ -1,8 +1,8 @@
 # 📚 Tech Challenge - Fase 3: Predição e Inteligência Analítica para Alfabetização no Brasil
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=flat&logo=python)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Latest-green?style=flat&logo=scikit-learn)
-![License](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Latest-yellow?style=flat&logo=scikit-learn)
+![License](https://img.shields.io/badge/Status-Finalizado-green)
 
 > **Projeto Integrador - Pós-Graduação em Ciência de Dados / Inteligência Artificial**  
 > Aplicação prática de pipelines de Machine Learning e Ciência de Dados sobre indicadores socioeconômicos e educacionais brasileiros para predição da alfabetização infantil e apoio a políticas públicas.
