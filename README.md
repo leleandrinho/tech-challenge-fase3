@@ -1,7 +1,7 @@
 # 📚 Tech Challenge - Fase 3: Predição e Inteligência Analítica para Alfabetização no Brasil
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=flat&logo=python)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Latest-orange?style=flat&logo=scikit-learn)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Latest-green?style=flat&logo=scikit-learn)
 ![License](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
 
 > **Projeto Integrador - Pós-Graduação em Ciência de Dados / Inteligência Artificial**  
